@@ -1,8 +1,8 @@
-## **Meg Jones**
+# **Meg Jones**
 *Contact: jones8mn@mail.uc.edu*
 
 ---
-### Co-op and Related Experience
+### **Co-op and Related Experience**
 ##### JPMorgan Chase | *Columbus, OH* | Software Engineering Program Intern
 ###### *June 2019 - August 2019*
 *	Developed RESTful API end points using Java
@@ -23,7 +23,7 @@
 * Removed in-line CSS from HTML files, reducing load time for MetaPrism
 
 ---
-### Skills & Expertise
+### **Skills & Expertise**
 * Programming: C++, C\#, Java, Python 
 * Operating Systems: Windows
 * Web Development: HTML, CSS, XAML
@@ -31,14 +31,14 @@
 * Office Applications: MATLAB, Microsoft Office 365
 
 ---
-### Areas of Interest
+### **Areas of Interest**
 * Database Applications
 * Web Design
 * Machine Learning
 * Robotics
 
 ---
-### Type of Projects Sought After
+### **Type of Projects Sought**
 * Anything outside of web development
 * Android application with GPS functionality to determine location of pet using device attached to a collar
 * Software that can analyze instrument played and what notes are being played
