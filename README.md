@@ -1,6 +1,6 @@
 # Table of Contents for Fall Design Reports
 
-1. Team names (include Advisor) and Project Abstract (limit of 400 ascii chars)
+1. Team names and Project Abstract
 2. Project Description
 3. User Stories and Design Diagrams
     * User Stories
@@ -12,6 +12,6 @@
     * Effort Matrix
 5. PPT Slideshow (includes ABET Concerns)
 6. Self-Assessment Essays
-7. Professional Biographies
+7. [Professional Biographies](https://github.com/meg-n-jones/cs-5001-2/blob/main/meg-jones-bio.md)
 8. Budget
 9. Appendix
