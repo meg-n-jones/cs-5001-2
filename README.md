@@ -1,6 +1,6 @@
 # Table of Contents for Fall Design Reports
 
-1. [Team names and Project Abstract] (https://github.com/meg-n-jones/cs-5001-2/blob/main/Team%20Names_And_Proj_Abs.md)
+1. [Team names and Project Abstract](https://github.com/meg-n-jones/cs-5001-2/blob/main/Team%20Names_And_Proj_Abs.md)
 2. Project Description
 3. User Stories and Design Diagrams
     * User Stories
