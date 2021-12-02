@@ -24,10 +24,4 @@
   simple so reimplementing them should be relatively easy. 3) Devlop a graphical user interface (GUI) that will allow a human user to define 
   scenario parameters and select which agents to control within the scenario. Once the parameters are selected, the simulator initializes
   the scenario and allows the user to control the agents via an xbox game controller.
-
-
-## *Team Super Mega Awesome Cool Cats* Project Description
-
-
-
   
