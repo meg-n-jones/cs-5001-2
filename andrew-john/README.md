@@ -1,3 +1,3 @@
 # CE Senior Design Work
 
-Work completed by Andrew Brand and John Peecook
+Work completed for the CE Senior Design course
