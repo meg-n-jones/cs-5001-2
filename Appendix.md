@@ -8,3 +8,9 @@
 
 
 [TSMACC Team Contract](https://github.com/meg-n-jones/cs-5001-2/blob/main/TSMACC-Team%20Contract.pdf)
+
+
+[CE Design Plan](https://github.com/meg-n-jones/cs-5001-2/blob/main/andrew-john/Design_Plan.pdf)
+
+
+[CE Senior Design DHF](https://github.com/meg-n-jones/cs-5001-2/blob/main/andrew-john/Senior_Design_DHF.pdf)
