@@ -1,7 +1,7 @@
 # Table of Contents for Fall Design Reports
 
 1. [Team names and Project Abstract](https://github.com/meg-n-jones/cs-5001-2/blob/main/Team%20Names_And_Proj_Abs.md)
-2. Project Description
+2. [Project Description](https://github.com/meg-n-jones/cs-5001-2/blob/main/description.md)
 3. User Stories and Design Diagrams
     * [User Stories](https://github.com/meg-n-jones/cs-5001-2/blob/main/Design%20Diagrams/User_Stories.md)
     * Design Diagrams: 
@@ -16,4 +16,4 @@
 6. [Self-Assessment Essays](https://github.com/meg-n-jones/cs-5001-2/tree/main/meg-essays)
 7. [Professional Biographies](https://github.com/meg-n-jones/cs-5001-2/blob/main/meg-jones-bio.md)
 8. [Budget](https://github.com/meg-n-jones/cs-5001-2/blob/main/budget.md)
-9. Appendix
+9. [Appendix](https://github.com/meg-n-jones/cs-5001-2/blob/main/Appendix.md)
