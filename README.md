@@ -12,7 +12,7 @@
 4. Project Tasks and Timeline
     * [Task List](https://github.com/meg-n-jones/cs-5001-2/blob/main/TaskList.md)
     * [Timeline & Effort Matrix](https://github.com/meg-n-jones/cs-5001-2/blob/main/Milestones%26Tables.md)
-5. [PPT Slideshow](https://docs.google.com/presentation/d/1rwM0utYZtp_vqbfTYE0dG_m_hfeOB4y3qRT83yqPRhY/edit?usp=sharing)
+5. [PPT Slideshow](https://docs.google.com/presentation/d/1KVP2JqvSf5F0PcTwjOKdwJh83DptD0vLIaZkz296ulo/edit?usp=sharing)
 6. [Self-Assessment Essays](https://github.com/meg-n-jones/cs-5001-2/tree/main/meg-essays)
 7. [Professional Biographies](https://github.com/meg-n-jones/cs-5001-2/blob/main/meg-jones-bio.md)
 8. [Budget](https://github.com/meg-n-jones/cs-5001-2/blob/main/budget.md)
