@@ -14,3 +14,6 @@
 
 
 [CE Senior Design DHF](https://github.com/meg-n-jones/cs-5001-2/blob/main/andrew-john/Senior_Design_DHF.pdf)
+
+
+[User Guide and FAQs](https://jones8mn.wixsite.com/2designit)
