@@ -1,3 +1,3 @@
 ## Budget for this Project
-* $0
-  * We have not used funds so far for this project
+* $10
+  * Posterboard for EECE/CS Expo and CEAS Expo
