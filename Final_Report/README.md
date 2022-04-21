@@ -9,10 +9,10 @@
 7. Assessments
   
   
-  a. Initial
+      a. Initial
   
   
-  b. Final
+      b. Final
 
 
 8. Summary of Hours and Justification
