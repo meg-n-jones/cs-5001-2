@@ -1,8 +1,7 @@
 ## Hours and Justification
 
-**Meg**
+#### **Meg**
 ---
-
 
 Hours
 * Autumn Semester: 30 hrs
@@ -15,3 +14,13 @@ project, developing a [prototype test plan](https://github.com/meg-n-jones/cs-50
 the spring semester, I spent time dedicated to building out 2 different levels and 4 abilties in 2Design It (our current project), developing the [website](https://jones8mn.wixsite.com/2designit) 
 for the game, setting up the Powerpoint for the [current project](https://docs.google.com/presentation/d/1KVP2JqvSf5F0PcTwjOKdwJh83DptD0vLIaZkz296ulo/edit?usp=sharing), and
 setting up the [Google Form](https://forms.gle/HubW2sDYAnUbdmz49) for the Test Plan we came up with as a team.
+
+
+#### **Andrew**
+---
+
+[Link to Final CE Report]()
+
+#### **John**
+---
+[Link to Final CE Report]()
