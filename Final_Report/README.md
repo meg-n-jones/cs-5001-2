@@ -7,7 +7,13 @@
 5. Spring Final PPT Presentation
 6. Final Expo Poster
 7. Assessments
+  
+  
   a. Initial
+  
+  
   b. Final
+
+
 8. Summary of Hours and Justification
 9. Summary of Expenses
