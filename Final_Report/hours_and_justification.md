@@ -5,7 +5,9 @@
 
 Hours
 * Autumn Semester: 30 hrs
+    * *Project: 10 hrs* 
 * Spring Semester: 50 hrs
+    * *Project: 45 hrs*
 * Total Hours: 80 hrs
 
 
