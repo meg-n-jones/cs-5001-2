@@ -21,8 +21,8 @@ setting up the [Google Form](https://forms.gle/HubW2sDYAnUbdmz49) for the Test P
 #### **Andrew**
 ---
 
-[Link to Final CE Report]()
+[Link to Final CE Report](https://docs.google.com/document/d/1LePa_7QTYvyCpDkNrMmHo3YpKfJX4mDJd8DgpVU8cHQ/edit)
 
 #### **John**
 ---
-[Link to Final CE Report]()
+[Link to Final CE Report](https://docs.google.com/document/d/1LePa_7QTYvyCpDkNrMmHo3YpKfJX4mDJd8DgpVU8cHQ/edit)
